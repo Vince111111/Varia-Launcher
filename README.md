@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50" height="50" alt="Varia Launcher Logo" src="https://github.com/user-attachments/assets/4c86c1ba-731b-4b10-bf1f-30560d251e8f" />
+  <img width="100" height="100" alt="Varia Launcher Logo" src="https://github.com/user-attachments/assets/4c86c1ba-731b-4b10-bf1f-30560d251e8f" />
 </p>
 
 <h1 align="center">Varia Launcher</h1>

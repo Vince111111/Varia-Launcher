@@ -1,13 +1,9 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/program_info/org.varialauncher.VariaLauncher.logo-darkmode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/program_info/org.varialauncher.VariaLauncher.logo.svg">
-    <img alt="Varia Launcher" src="/program_info/org.varialauncher.VariaLauncher.logo.svg" width="40%">
-  </picture>
+  <img width="28" height="28" alt="Varia Icon" src="https://github.com/user-attachments/assets/16d91ea2-6ea7-4fbd-ba73-36caa0c2ef6c" />
 </p>
 
 <p align="center">
-  Varia Launcher is a community-focused fork of Prism Launcher, designed to provide more features and better accessibility for all players.<br />
+  <b>Varia Launcher</b> is a community-focused fork of Prism Launcher, designed to provide more features and better accessibility for all players.<br />
   <br />This is a <b>fork</b> of the Prism Launcher and is <b>not</b> endorsed by or affiliated with the Prism Launcher project.
 </p>
 
@@ -37,13 +33,12 @@ Following the requirements of the original Prism project:
 2. **API Keys:** All official Prism API keys (CurseForge/Microsoft) have been **removed**. You must provide your own or use the launcher's manual features.
 3. **Open Source:** This fork remains strictly under the **GPL-3.0** license.
 
-## Warning
-
-This is made by AI (Artificial Intelligience), There will be errors and risks, so install it if u want to
-
 ## Credits
 
 Varia Launcher is built upon the incredible work of the [Prism Launcher](https://prismlauncher.org) team. We thank them for keeping the project open for others to learn from and build upon.
+
+## Reminder
+This is made by AI (Artificial Intelligence) so there will be crashes,lag,bugs and more, Use it if u want
 
 ## License [![License](https://img.shields.io/github/license/YOUR_USERNAME/VariaLauncher?label=License&logo=gnu&color=C4282D)](LICENSE)
 

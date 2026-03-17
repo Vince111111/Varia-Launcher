@@ -1,10 +1,13 @@
 <p align="center">
-  <img width="28" height="28" alt="Varia Icon" src="![designarena_image_6wtkq9r5](https://github.com/user-attachments/assets/53d7069d-4cad-45b8-960a-4eb15a2ac4fc)"
- />
+  <img src="https://github.com/user-attachments/assets/9b61e0ca-f537-4ea6-b8ad-ecbdeb07e7eb" alt="Varia Launcher Banner" width="100%">
 </p>
 
+<h1 align="center">
+  <img width="28" height="28" alt="Varia Icon" src="https://github.com/user-attachments/assets/16d91ea2-6ea7-4fbd-ba73-36caa0c2ef6c" /> Varia Launcher
+</h1>
+
 <p align="center">
-  <b>Varia Launcher</b> is a community-focused fork of Prism Launcher, designed to provide more features and better accessibility for all players.<br />
+  A community-focused fork of Prism Launcher, designed to provide more features and better accessibility for all players.<br />
   <br />This is a <b>fork</b> of the Prism Launcher and is <b>not</b> endorsed by or affiliated with the Prism Launcher project.
 </p>
 
@@ -15,7 +18,7 @@ Varia Launcher aims to be a "Swiss Army Knife" for Minecraft. While it stays tru
 ### Core Goals
 - **Account Freedom:** Built-in support for **Ely.by skins** and **Offline/Cracked** account modes.
 - **Visual Refresh:** A modified UI focused on clarity and ease of use.
-- **Hardware Minded:** Tweaked to run efficiently on integrated graphics (like Intel HD series) by reducing unnecessary background overhead.
+- **Hardware Minded:** Tweaked to run efficiently on integrated graphics (like Intel HD 4600) by reducing unnecessary background overhead.
 - **Legacy Love:** Maintaining and adding support for older modloaders (Rift, Legacy Fabric) that are often overlooked.
 
 ## Installation
@@ -34,12 +37,13 @@ Following the requirements of the original Prism project:
 2. **API Keys:** All official Prism API keys (CurseForge/Microsoft) have been **removed**. You must provide your own or use the launcher's manual features.
 3. **Open Source:** This fork remains strictly under the **GPL-3.0** license.
 
+## REMINDER
+
+THIS IS MADE BY ARTIFICIAL INTELLIGENCE SO RISKS, LAG, BUGS AND MORE, IF U WANT TO USE IT, GO AHEAD
+
 ## Credits
 
 Varia Launcher is built upon the incredible work of the [Prism Launcher](https://prismlauncher.org) team. We thank them for keeping the project open for others to learn from and build upon.
-
-## Reminder
-This is made by AI (Artificial Intelligence) so there will be crashes,lag,bugs and more, Use it if u want
 
 ## License [![License](https://img.shields.io/github/license/YOUR_USERNAME/VariaLauncher?label=License&logo=gnu&color=C4282D)](LICENSE)
 

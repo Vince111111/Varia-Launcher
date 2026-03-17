@@ -36,13 +36,7 @@ To build Varia Launcher yourself, you will need:
 - **CMake** & **Ninja**
 - **A C++17 Compiler** (MSVC 2022 recommended for Windows)
 
-```bash
-git clone [https://github.com/YOUR_USERNAME/VariaLauncher.git](https://github.com/YOUR_USERNAME/VariaLauncher.git)
-cd VariaLauncher
-git submodule update --init --recursive
-cmake -S . -B build -G "Ninja"
-cmake --build build
-Forking & Redistributing Policy
+### Forking & Redistributing Policy
 This project is a fork. In accordance with the original Prism Launcher policy and the GPL license:
 
 It is clearly stated that this is Varia Launcher, not Prism Launcher.

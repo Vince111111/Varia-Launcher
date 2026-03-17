@@ -7,47 +7,41 @@
 </p>
 
 <p align="center">
-  Varia Launcher is a high-performance, feature-rich Minecraft launcher designed for power users and low-end hardware.<br />
+  Varia Launcher is a community-focused fork of Prism Launcher, designed to provide more features and better accessibility for all players.<br />
   <br />This is a <b>fork</b> of the Prism Launcher and is <b>not</b> endorsed by or affiliated with the Prism Launcher project.
 </p>
 
 ## About Varia
 
-Varia Launcher extends the powerful foundation of Prism to provide more freedom and better performance. Whether you are playing on a high-end rig or an Intel HD 4600, Varia is built to be fast, customizable, and inclusive of all account types.
+Varia Launcher aims to be a "Swiss Army Knife" for Minecraft. While it stays true to the fast and lightweight nature of Prism, it adds features that the main project does not officially support, making it a great choice for those using older hardware or alternative account services.
 
-### Key Features
-- **Account Freedom:** Native support for **Ely.by**, **Offline/Cracked** accounts, and Microsoft Auth.
-- **Enhanced UI:** Modernized interface with deeper customization options.
-- **Legacy Support:** Built-in compatibility for older modloaders like **Rift** and **Legacy Fabric**.
-- **Performance First:** Optimized background processes and "debloated" code for smoother gameplay on low-end PCs.
+### Core Goals
+- **Account Freedom:** Built-in support for **Ely.by skins** and **Offline/Cracked** account modes.
+- **Visual Refresh:** A modified UI focused on clarity and ease of use.
+- **Hardware Minded:** Tweaked to run efficiently on integrated graphics (like Intel HD series) by reducing unnecessary background overhead.
+- **Legacy Love:** Maintaining and adding support for older modloaders (Rift, Legacy Fabric) that are often overlooked.
 
 ## Installation
 
-- Since this is a community fork, downloads are currently available through the [GitHub Releases](https://github.com/YOUR_USERNAME/VariaLauncher/releases) tab.
-- Build status and automated testing can be found in the [Actions](https://github.com/YOUR_USERNAME/VariaLauncher/actions) tab.
+- Downloads will be available in the **GitHub Releases** section once the first stable build is ready.
+- **Note:** This is a work-in-progress. Expect frequent updates and changes as features are integrated!
 
-### Development Builds
-Development builds are experimental. They include the latest changes but may contain bugs. Use them at your own risk.
+## Building from Source
 
-## Building
+To build Varia Launcher, you will need to have **Qt 6.10+** (with the Qt 5 Compatibility Module), **CMake**, and **Ninja** installed. Detailed step-by-step instructions for setting up your environment and compiling the source code can be found in our development Wiki or the official building guide.
 
-To build Varia Launcher yourself, you will need:
-- **Qt 6.10+** (with Qt 5 Compatibility Module)
-- **CMake** & **Ninja**
-- **A C++17 Compiler** (MSVC 2022 recommended for Windows)
+## Policy for this Fork
 
-### Forking & Redistributing Policy
-This project is a fork. In accordance with the original Prism Launcher policy and the GPL license:
+Following the requirements of the original Prism project:
+1. **Naming:** This project is named **Varia Launcher** to avoid confusion with the original.
+2. **API Keys:** All official Prism API keys (CurseForge/Microsoft) have been **removed**. You must provide your own or use the launcher's manual features.
+3. **Open Source:** This fork remains strictly under the **GPL-3.0** license.
 
-It is clearly stated that this is Varia Launcher, not Prism Launcher.
+## Credits
 
-All official Prism Launcher API keys have been removed or set to empty strings ("") to ensure no unauthorized use of their services.
+Varia Launcher is built upon the incredible work of the [Prism Launcher](https://prismlauncher.org) team. We thank them for keeping the project open for others to learn from and build upon.
 
-This fork is, and will remain, open source under the GPL-3.0 license.
+## License [![License](https://img.shields.io/github/license/YOUR_USERNAME/VariaLauncher?label=License&logo=gnu&color=C4282D)](LICENSE)
 
-Credits
-Varia Launcher is made possible thanks to the hard work of the Prism Launcher team and the original MultiMC developers.
-
-License 
-All launcher code is available under the GPL-3.0-only license.
-Assets and branding are subject to their respective licenses (CC BY-SA 4.0).
+All launcher code is available under the **GPL-3.0-only** license.
+Assets are licensed under **CC BY-SA 4.0**.

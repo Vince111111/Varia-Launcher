@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="28" height="28" alt="Varia Icon" src="https://github.com/user-attachments/assets/16d91ea2-6ea7-4fbd-ba73-36caa0c2ef6c" />
+  <img width="28" height="28" alt="Varia Icon" src="![designarena_image_6wtkq9r5](https://github.com/user-attachments/assets/53d7069d-4cad-45b8-960a-4eb15a2ac4fc)"
+ />
 </p>
 
 <p align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="100" alt="Varia Launcher Logo" src="https://github.com/user-attachments/assets/174b61b3-ee0d-488a-9e01-6635f57efeb7" />
+  <img width="100" height="100" alt="Varia Launcher Logo" src="https://github.com/user-attachments/assets/67bea8d6-6e21-4490-8890-40a82378a2c9" />
 </p>
 
 <h1 align="center">Varia Launcher</h1>
@@ -47,6 +47,8 @@ Assets are licensed under **CC BY-SA 4.0**.
 ## REMINDER
 
 THIS IS MADE BY ARTIFICIAL INTELLIGENCE SO RISKS, LAG, BUGS AND MORE, IF U WANT TO USE IT, GO AHEAD
+
+
 
 
 

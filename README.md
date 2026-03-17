@@ -37,6 +37,10 @@ Following the requirements of the original Prism project:
 2. **API Keys:** All official Prism API keys (CurseForge/Microsoft) have been **removed**. You must provide your own or use the launcher's manual features.
 3. **Open Source:** This fork remains strictly under the **GPL-3.0** license.
 
+## Warning
+
+This is made by AI (Artificial Intelligience), There will be errors and risks, so install it if u want to
+
 ## Credits
 
 Varia Launcher is built upon the incredible work of the [Prism Launcher](https://prismlauncher.org) team. We thank them for keeping the project open for others to learn from and build upon.

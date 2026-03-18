@@ -44,9 +44,10 @@ Varia Launcher is built upon the incredible work of the [Prism Launcher](https:/
 All launcher code is available under the **GPL-3.0-only** license.
 Assets are licensed under **CC BY-SA 4.0**.
 
-## REMINDER
+## ⚠️ Transparency Notice
 
-THIS IS MADE BY ARTIFICIAL INTELLIGENCE SO RISKS, LAG, BUGS AND MORE, IF U WANT TO USE IT, GO AHEAD
+Varia Launcher was developed with significant assistance from AI tools. While every effort has been made to ensure stability and quality, you may encounter bugs, performance issues, or unexpected behavior. Use at your own discretion, and feel free to open an issue if you run into anything!
+
 
 
 

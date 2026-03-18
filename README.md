@@ -46,12 +46,4 @@ Assets are licensed under **CC BY-SA 4.0**.
 
 ## ⚠️ Transparency Notice
 
-Varia Launcher was developed with significant assistance from AI tools. While every effort has been made to ensure stability and quality, you may encounter bugs, performance issues, or unexpected behavior. Use at your own discretion, and feel free to open an issue if you run into anything!
-
-
-
-
-
-
-
-
+Almost all of the code and changes in Varia Launcher were written and implemented with AI assistance. Only a small portion of the work was done directly by the creator. While efforts have been made to ensure stability, you may encounter bugs, performance issues, or unexpected behavior. Use at your own discretion — and if you run into anything, feel free to open an issue!

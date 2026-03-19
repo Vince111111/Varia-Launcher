@@ -84,6 +84,14 @@
             "cacheVariables": {
                 "CMAKE_TOOLCHAIN_FILE": "$penv{VCPKG_ROOT}/scripts/buildsystems/vcpkg.cmake"
             }
+        },
+        {
+            "name": "windows_msvc",
+            "description": "",
+            "displayName": "",
+            "inherits": [
+                "windows_msvc"
+            ]
         }
     ],
     "buildPresets": [
